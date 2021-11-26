@@ -98,5 +98,4 @@
   
   Además, también existe la posibilidad de cambiar el idioma a español mediante la extensión de idioma. Si tienes configurado el sistema operativo en español, normalmente el 
   propio programa te lo sugerirá al iniciar, como se puede apreciar en la imagen del apartado anterior.
-
  </div>
