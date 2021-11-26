@@ -62,5 +62,4 @@
   <img src="img/intellij.png">
   
   Como podemos ver, se nos abre la página de inicio. En este punto, estamos listos para comenzar a trabajar con IntelliJ. 
-
  </div>
