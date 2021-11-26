@@ -198,5 +198,4 @@
   Para ver todos los cambios y debería verse algo así:
   
   <img src="img/show2.png">
-  
 </div>
