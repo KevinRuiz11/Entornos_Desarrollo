@@ -197,5 +197,4 @@
   <img src="img/hola mundo.png">
   
   Ahora que ya hemos dado el primer paso, estamos listos para continuar desarrollando programas más complejos en este lenguaje.
-  
 </div>
