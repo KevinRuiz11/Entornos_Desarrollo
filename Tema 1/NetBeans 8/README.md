@@ -89,5 +89,4 @@
   <img src="img/netbeans8.png">
   
   Como podemos ver, al abrir el programa, me aparece la página de inicio. Por lo tanto, ya estamos listos para empezar a trabajar con él.
-
  </div>
