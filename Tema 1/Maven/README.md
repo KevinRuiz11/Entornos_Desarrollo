@@ -164,5 +164,4 @@
   <img src="img/mvn -version3.png">
   
   Podremos dar por terminado el proceso, pues, como se puede apreciar, tenemos correctamente instalada la versión 3.8.2.
-  
  </div>
