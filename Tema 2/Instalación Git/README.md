@@ -136,5 +136,4 @@
   En mi caso es la siguiente: 
   
   <img src="img/config.png">
-  
 </div>
