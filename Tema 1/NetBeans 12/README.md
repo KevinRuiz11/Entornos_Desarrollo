@@ -90,5 +90,4 @@
     sudo snap remove netbeans
   
   Y, de esta forma, eliminaremos completamente dicho software de nuestro equipo.
-  
  </div>
