@@ -467,4 +467,5 @@
     git log --graph --all –oneline
   
   <img src="img/E9.png">
+  
 </div>
