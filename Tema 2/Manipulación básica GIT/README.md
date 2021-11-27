@@ -1,4 +1,4 @@
-# Instalación Git
+# Manipulación básica GIT
 
 ## Índice
 * [Introducción](#introducción)  
