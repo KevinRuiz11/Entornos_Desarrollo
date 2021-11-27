@@ -1,5 +1,4 @@
-# 
-Manipulación Avanzada en Git
+# Manipulación Avanzada en Git
 
 ## Índice
 * [Introducción](#introducción)  
